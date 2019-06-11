@@ -2,7 +2,7 @@ name: imei_plugin
 description: 获取IMEI
 version: 0.0.1
 author: JieSmart
-homepage:
+homepage: https://github.com/JieSmart/Imei_Plugin
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
